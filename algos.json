@@ -926,12 +926,6 @@
         ]
     },
     {
-        "name": "zilliqahash",
-        "coins": [
-            "ZIL"
-        ]
-    },
-    {
         "name": "energihash",
         "coins": [
             "NRG"
@@ -1481,6 +1475,7 @@
     {
         "name": "equihash 125\/4",
         "coins": [
+            "FLUX",
             "ZEL",
             "Zpool-equihash125",
             "Zerg-equihash125",
@@ -1734,6 +1729,13 @@
         "coins":
           [
            "LTNCG"
+          ]
+    },
+    {
+        "name": "yespower-mgpc",
+        "coins":
+          [
+           "MGPC"
           ]
     },
     {
@@ -2141,6 +2143,12 @@
     },
     {
         "name": "heavy"
+    },
+    {
+        "name": "heavyhash",
+        "coins": [
+            "OBTC"
+        ]
     },
     {
         "name": "hodl",

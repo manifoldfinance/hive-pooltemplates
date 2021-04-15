@@ -5,7 +5,7 @@
     "for_cpu": true,
     "for_asic": false,
     "ssl_prefix": "",
-    "default_algo": "cn\/r",
+    "default_algo": "rx\/0",
     "default_fork": "xmrig",
     "algos": {
         "astrobwt":       "AstroBWT (DERO)",
@@ -159,7 +159,9 @@
         "defyx": "panthera",
         "RandomXHFPI": "randomx-klr",
         "rx\/klaro": "randomx-klr",
-        "randomx\/klr": "randomx-klr"
+        "randomx\/klr": "randomx-klr",
+        "rx/keva": "randomx-keva",
+        "cn\/conceal": "cryptonight-ccx"
     },
     "forks": [
        "xmrig",
