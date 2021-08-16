@@ -8,6 +8,7 @@
     "default_algo": null,
     "default_fork": null,
     "algos": [
+        "autolykos2",
         "cnr",
         "cnv8",
         "cnv8_dbl",
@@ -31,6 +32,7 @@
         "phi2",
         "trtl_chukwa",
         "trtl_chukwa2",
+        "verthash",
         "x16r",
         "x16rv2",
         "x16rt",
